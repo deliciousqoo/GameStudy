@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{A7F3F650-10CB-A9F4-7FEC-FE3F2FB1DB2D}</ProjectGuid>
+    <ProjectGuid>{3AD5D737-BB46-43C5-6011-5F44AA481467}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -62,13 +62,13 @@
     <Compile Include="Assets\Scripts\Study\ObjectManage.cs" />
     <Compile Include="Assets\Scripts\Study\ButtonImage.cs" />
     <Compile Include="Assets\Scripts\FSMStudy\Student.cs" />
+    <Compile Include="Assets\Scripts\FSMStudy\Unemployed.cs" />
+    <Compile Include="Assets\Scripts\FSMStudy\UnemployedOwnedStates.cs" />
+    <Compile Include="Assets\Scripts\FSMStudy\StateMachine.cs" />
     <Compile Include="Assets\Scripts\FSMStudy\BaseGameEntity.cs" />
     <Compile Include="Assets\Scripts\FSMStudy\StudentOwnedStates.cs" />
     <Compile Include="Assets\Scripts\Study\CardManager.cs" />
     <Compile Include="Assets\Scripts\FSMStudy\State.cs" />
-    <Compile Include="Assets\Scripts\FSMStudy\StateMachine.cs" />
-    <Compile Include="Assets\Scripts\FSMStudy\Unemployed.cs" />
-    <Compile Include="Assets\Scripts\FSMStudy\UnemployedOwnedStates.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Sprites\newconcept\unit\mercenaryleader\스플설명서.txt" />
