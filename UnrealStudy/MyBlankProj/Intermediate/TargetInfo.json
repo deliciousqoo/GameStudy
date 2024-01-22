@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MyBlankProj",
+			"Path": "..\\Source\\MyBlankProj.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MyBlankProjEditor",
+			"Path": "..\\Source\\MyBlankProjEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

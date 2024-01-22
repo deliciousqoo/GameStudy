@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\jihan\\desktop\\gamedev\\unrealstudy\\myblankproj\\source\\myblankproj\\myblankproj.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\jihan\\desktop\\gamedev\\unrealstudy\\myblankproj\\intermediate\\build\\win64\\x64\\myblankprojeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\jihan\\desktop\\gamedev\\unrealstudy\\myblankproj\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\myblankproj\\definitions.myblankproj.h",
+            "c:\\users\\jihan\\desktop\\gamedev\\unrealstudy\\myblankproj\\source\\myblankproj\\myblankproj.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
